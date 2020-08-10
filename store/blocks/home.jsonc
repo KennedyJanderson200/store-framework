@@ -13,7 +13,7 @@
   },
   "rich-text": {
     "props": {
-      "text": "**vintage**",
+      "text": "****",
       "textPosition": "RIGHT"
     }
   },
