@@ -30,6 +30,7 @@
 
 
 
+
   "rich-text": {
     "props": {
       "text": "**Hello Wolrd**",
@@ -65,7 +66,7 @@
         "headline": "Shining chrome",
         "subhead": "Give your kitchen a cool style adding warm metallic finishes.<br>Available until January 2020..",
         "callToActionMode": "Go to Collection",
-        "callToActionText": "Explore",
+        "callToActionText": "Go to Collection",
         "callToActionUrl": "/sale/d",
         "textAlignment": "center",
         "blockClass": "vintage"
