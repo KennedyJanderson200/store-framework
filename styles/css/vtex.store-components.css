@@ -35,8 +35,13 @@
     background-color: #edcfd1;
   }
 
-  .infoCardContainer--info-card-example{
-     border: 1px, solid 1px,
+  .infoCardContainer{
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 0;
+}
+
      
 
-  }
+  
+
