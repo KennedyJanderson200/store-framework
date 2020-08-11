@@ -9,6 +9,12 @@
  
 }
 
+.infoCardContainer{
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 0;
+}
+
 
 .infoCardCallActionContainer :global(.vtex-button) {
 color: white;
@@ -19,10 +25,9 @@ border: transparent;
 
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-  color: rgb(128, 128, 128);
-  background-color: rgb(255, 255, 255);
-  border: transparent;
-  
+  color: gray;
+background-color: white;
+border: transparent;
 }
 
 
@@ -35,10 +40,10 @@ border: transparent;
   background-color: #edcfd1;
 }
 
-.infoCardContainer{
-  max-width: 1260px;
-  margin: 0 auto;
-  padding: 0;
+.infoCardHeadline{
+
+ text-align: left;
+
 }
 
      
