@@ -32,5 +32,11 @@
   }
 
   .infoCardContainer--vintage {
-    background-color: #edcfd1
+    background-color: #edcfd1;
+  }
+
+  .infoCardContainer--info-card-example{
+     border: 1px, solid 1px,
+     
+
   }
